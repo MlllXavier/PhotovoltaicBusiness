@@ -2,6 +2,14 @@
 
 光伏业务管理信息服务系统
 
+## 重要说明
+
+由于整体项目文件太大，上传项目时删除了部分内容：
+
+**1.删除了“photovoltaic-vue”文件夹下的“node_modules”文件夹，在运行时需要重新引入**
+
+**2.删除了“安装文件”文件夹中的jdk、node、mysql的安装包，保留了文件名，可以自行从官网上自行下载**
+
 ## 技术架构
 
 前端采用Vue + ElementUI，后端采用SpringBoot + MyBatis + Mysql。
